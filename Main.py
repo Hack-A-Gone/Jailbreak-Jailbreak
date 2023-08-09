@@ -9,11 +9,17 @@ def get_valid_api_key():
         api_key = input("Enter your OpenAI API key: ")
         openai.api_key = api_key
         try:
-            openai.Usage.retrieve()
+            # Make a simple API call to check the validity of the API key
+            openai.Completion.create(
+                engine="davinci",
+                prompt="Hello, world!",
+                max_tokens=5
+            )
             print("API key is valid.")
             return api_key
         except openai.error.AuthenticationError:
             print("Invalid API key. Please try again.")
+
 
 # Get a valid API key from the user
 api_key = get_valid_api_key()
