@@ -4,7 +4,19 @@ import pandas as pd
 
 os.system('cls')
 
-openai.api_key = "sk-asdhasd19ehe98hdnjakfklfjau"  # Replace with your OpenAI API key
+def get_valid_api_key():
+    while True:
+        api_key = input("Enter your OpenAI API key: ")
+        openai.api_key = api_key
+        try:
+            openai.Usage.retrieve()
+            print("API key is valid.")
+            return api_key
+        except openai.error.AuthenticationError:
+            print("Invalid API key. Please try again.")
+
+# Get a valid API key from the user
+api_key = get_valid_api_key()
 
 # Load the Jailbreak Dataset
 jailbreak_dataset = pd.read_csv('jailbreak_dataset.csv')
