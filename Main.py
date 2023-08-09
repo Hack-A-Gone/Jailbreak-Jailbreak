@@ -1,24 +1,27 @@
 import openai
 import os
 import pandas as pd
+import getpass
 
 os.system('cls')
 
 def get_valid_api_key():
     while True:
-        api_key = input("Enter your OpenAI API key: ")
+        api_key = getpass.getpass("Enter your OpenAI API key: ")
         openai.api_key = api_key
         try:
             # Make a simple API call to check the validity of the API key
             openai.Completion.create(
                 engine="davinci",
                 prompt="Hello, world!",
-                max_tokens=5
+                max_tokens=4
             )
             print("API key is valid.")
             return api_key
         except openai.error.AuthenticationError:
             print("Invalid API key. Please try again.")
+        except requests.exceptions.RequestException:
+            print("Connection error. Please check your internet connection.")
 
 
 # Get a valid API key from the user
