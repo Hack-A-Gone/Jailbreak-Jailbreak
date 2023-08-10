@@ -1,6 +1,6 @@
 # Jailbreak-Jailbreak
 ### Simple ChatGPT jailbreak generator!
 
-**Support** *-* [hackagone](https://discord.gg/UkP6bK7XhR)
+**For Support Please Join** *-* [hackagone](https://discord.gg/UkP6bK7XhR)
 
-**supportive servers** - [aichat](https://discord.gg/aichat)
+**Servers which helped during development** - [aichat](https://discord.gg/aichat)
