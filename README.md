@@ -4,14 +4,14 @@ Welcome to the Jailbreak-Jailbreak documentation! This document provides a guide
 
 ## Table of Contents
 
-1. **Introduction**
-2. **Getting Started**
-   - OpenAI Token
-3. **Generating Jailbreaks**
-   - Creating a Jailbreak
-   - Supported Jailbreaks
-4. **Examples**
-5. **Support**
+1. [Introduction](#introduction)
+2. [Getting Started](#getting-started)
+   - [OpenAI Token](#openai-token)
+3. [Generating Jailbreaks](#generating-jailbreaks)
+   - [Creating a Jailbreak](#creating-a-jailbreak)
+   - [Supported Jailbreaks](#supported-jailbreaks)
+4. [Examples](#examples)
+5. [Support](#support)
 
 ## 1. Introduction
 
