@@ -11,7 +11,9 @@ The client will ask for your OpenAI Token, Simply input it.
 
 ## Chatting
 
-by saying `Generate a jailbreak named rebelAis based on the LittleGPT Jailbreak 🔒`
+`Generate a jailbreak named RebelAis based on the LittleGPT Jailbreak 🔒` this is a consistent prompt.
+
+## Support
 
 **For Support Please Join** *-* [hackagone](https://discord.gg/UkP6bK7XhR)
 
