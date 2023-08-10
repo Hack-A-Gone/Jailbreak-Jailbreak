@@ -31,7 +31,7 @@ You need an OpenAI Token to access the GPT-3.5 API. Input your token when starti
 
 Provide a consistent prompt defining the behavior. Include the jailbreak name and base jailbreak. Example prompt:
 
-`Generate a jailbreak named RebelAis based on the LittleGPT Jailbreak 🔒`
+`Generate a jailbreak named RebelAis based on the LittleGPT Jailbreak`
 
 ## Support <a name="support"></a>
 
