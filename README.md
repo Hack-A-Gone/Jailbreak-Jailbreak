@@ -1,9 +1,8 @@
 # Jailbreak-Jailbreak
 ### Simple ChatGPT jailbreak generator!
 
-Dataset is quite small, will be updated with 600 new jailbreaks soon!
-
-Current Jailbreaks: LittleGPT, Maximum, Leo, Devils Advocate.
+The dataset is quite small, and will be updated with 600 new jailbreaks very soon!
+The Current supported Jailbreaks That the ai uses in its dataset: LittleGPT, Maximum, Leo and Devils Advocate.
 
 **For Support Please Join** *-* [hackagone](https://discord.gg/UkP6bK7XhR)
 
