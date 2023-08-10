@@ -5,13 +5,13 @@ The dataset is quite small, and will be updated with around 600 new jailbreaks v
 
 The Current supported Jailbreaks That the AI uses in its dataset: `LittleGPT`, `Maximum`, `Leo`, and `Devils Advocate`.
 
-## Start up
+## Start-up
 
 The client will ask for your OpenAI Token, Simply input it.
 
 ## Chatting
 
-by saying `Generate a jailbreak named (something) based on the (jailbreak)
+by saying `Generate a jailbreak named rebelAis based on the LittleGPT Jailbreak 🔒`
 
 **For Support Please Join** *-* [hackagone](https://discord.gg/UkP6bK7XhR)
 
