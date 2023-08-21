@@ -5,17 +5,21 @@ Welcome to the Jailbreak-Jailbreak documentation! This document provides a guide
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
+2. - [What is a jailbreak?](#introduction-jailQ)
+3. [Getting Started](#getting-started)
    - [OpenAI Token](#openai-token)
-3. [Generating Jailbreaks](#generating-jailbreaks)
+4. [Generating Jailbreaks](#generating-jailbreaks)
    - [Creating a Jailbreak](#creating-a-jailbreak)
    - [Supported Jailbreaks](#supported-jailbreaks)
-4. [Examples](#examples)
-5. [Support](#support)
+5. [Examples](#examples)
+6. [Support](#support)
 
 ## Introduction <a name="introduction"></a>
 
 Jailbreak-Jailbreak allows you to generate custom jailbreaks for AI personalities using ChatGPT. Jailbreaks are configurations that tailor ChatGPT's behavior. This generator supports pre-defined jailbreaks.
+
+### What is a jailbreak? <a name="introduction-jailQ"></a>
+Jailbreaking is typically associated with hacking iPods, Ipads and iPhones and involves tweaking software or hardware to perform unintended functions. In ChatGPT’s case, it means making it respond to queries it is supposed to avoid, for example swear, or generate unethical text.
 
 ## Getting Started <a name="getting-started"></a>
 
