@@ -1,4 +1,4 @@
-# Jailbreak-Jailbreak 🔒 (JJ): ChatGPT Jailbreak Generator
+# Jailbreak-Jailbreak 🔒 (JJ): ChatGPT Jailbreak Generator [OUTDATED, ALSO KiND OF.. SUCKS/2024-02-21]
 
 Welcome to the Jailbreak-Jailbreak documentation! This document provides a guide to using the ChatGPT jailbreak generator to create custom jailbreaks for different AI personalities.
 
