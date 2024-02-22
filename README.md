@@ -39,5 +39,5 @@ Provide a consistent prompt defining the behavior. Include the jailbreak name an
 
 ## Support <a name="support"></a>
 
-For assistance, questions, feedback, or to test out the new discord bot, join the [Hack-A-Gone Discord server](https://discord.gg/UkP6bK7XhR) acknowledgments to [aichat Discord server](https://discord.gg/aichat) for their support in development.
+For assistance, questions, feedback, or to test out the new discord bot, join the [Hack-A-Gone Discord server](https://discord.gg/UkP6bK7XhR).
 
